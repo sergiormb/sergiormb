@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align='right' src='https://media.giphy.com/media/8sOO8FrSOF9iE/giphy.gif' width='200'/>
 
-<!--
-**sergiormb/sergiormb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sergio Pino
+[![Twitter Badge](https://img.shields.io/badge/@sergiormb-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sergiormb)](https://twitter.com/sergiormb) 
+[![Linkedin Badge](https://img.shields.io/badge/sergiormb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiormb/)](https://www.linkedin.com/in/sergiormb/) 
+[![Gmail Badge](https://img.shields.io/badge/-sergiormb88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiormb88@gmail.com)](mailto:sergiormb88@gmail.com)
 
-Here are some ideas to get you started:
+## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [@aplazame](https://aplazame.com/)
+- 🌱 I’m currently learning Command Query Responsibility Segregation (CQRS)
+- 💬 Ask me about Python or Django
+- 📫 How to reach me [email](mailto:sergiormb88@gmail.com) or [telegram](https://telegram.me/sergiormb)
