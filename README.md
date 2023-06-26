@@ -8,6 +8,6 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on [@aplazame](https://aplazame.com/)
+- 🔭 I’m currently working on Inari
 - 💬 Ask me about Python or Django
 - 📫 How to reach me [email](mailto:sergiormb88@gmail.com) or [telegram](https://telegram.me/sergiormb)
